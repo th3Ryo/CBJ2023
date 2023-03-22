@@ -12,3 +12,12 @@ Boolean (NaN)
 
 Boolean (undefined)
 //false
+
+Boolean (false)
+//false
+
+Boolean ([])
+//true
+
+Boolean (function (){})
+//true
