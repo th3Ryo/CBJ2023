@@ -36,4 +36,24 @@ a && b;
 a || b;
 
 
+//incrementar 1
+var edad = 40;
+edad++
+
+//incrementar 2
+var edad = 40;
+edad+=2
+
+//Residuo
+21 % 5 // 1
+
+
+var a = 3
+var b = 3
+
+console.log(a++) //3
+console.log(++b) //4
+console.log(a) //4
+console.log(b) //4
+
 //operadores segundarios
