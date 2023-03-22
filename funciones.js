@@ -19,7 +19,9 @@ function saludarEstudian(estudiante){
 }
 
 function sumar(a,b){
-    return resultado
+    
     var resultado =a+b;
-}
-sumar(a,b)
+    return resultado;
+};
+
+
